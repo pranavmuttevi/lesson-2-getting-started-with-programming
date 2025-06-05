@@ -1,0 +1,11 @@
+
+me_bday = "22 august 2009"
+sister_bday = "8 March 2017"
+mom_bday = "6 june 1982"
+dad_bday = "17 october 1979"
+
+
+print("My birthday is", me_bday)
+print("My sister's birthday is", sister_bday)
+print("My mom's birthday is", mom_bday)
+print("My dad's birthday is", dad_bday)
